@@ -12,16 +12,12 @@ This project is a starter template for building web applications with pure HTML,
 - **Responsive Design:** Built-in support for creating responsive layouts, ensuring optimal viewing experience across various devices and screen sizes.
 - **Customizable:** Easily extend and modify the template to suit your specific project requirements.
 
-## Live Demo
-
-Check out the live demo [here](https://b-owl.github.io/eCommerce_tailwind_template/).
-
 ## Usage
 
 To use this template, simply download the source code or clone the repository:
 
 ```bash
-git clone https://github.com/b-owl/eCommerce_tailwind_template.git
+git clone https://github.com/bryce-poeter/eCommerce_tailwind_template.git
 ```
 Then, open the index.html file in your preferred text editor to start modifying the template.
 
