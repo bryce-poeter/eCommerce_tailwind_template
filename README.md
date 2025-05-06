@@ -2,8 +2,6 @@
 
 This project is a starter template for building web applications with pure HTML, CSS (using Tailwind CSS for styling), and JavaScript (utilizing the Swiper library for carousel/slider functionality). It provides a solid foundation for quickly prototyping and developing modern web applications.
 
-
-![2015-09-20 17 02 28](https://github.com/bryce-poeter/eCommerce_tailwind_template/blob/master/assets/images/preview/1.png)
 ## Features
 
 - **Pure HTML, CSS, and JavaScript:** Utilizes native web technologies for building dynamic and interactive user interfaces.
